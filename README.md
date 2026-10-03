@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Kamu] 👋
+# Hi there, I'm Vino Jafran Al Mukmin 👋
 
 Code is like humor. When you have to explain it, it’s bad." — Cory House
 
@@ -30,11 +30,4 @@ Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight)
-
----
 
