@@ -8,7 +8,7 @@
 
 - 🏫 Student at: SMPIT Quantum School
 - 🎯 Focusing on: Web Development & Software Engineering
-- 🚀 Goals: Studying at NUS, and work as a network engineer in Microsoft or NVDIA
+- 🚀 Goals: Studying at NUS, and work as a network engineer in Microsoft or NVIDIA
 - 📚 Currently Learning: Kotlin, godot engine, game development, and android development
 - ⚡ Fun Fact: Playing Games Everyday
 
