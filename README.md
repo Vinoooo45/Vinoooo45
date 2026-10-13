@@ -1,15 +1,15 @@
 # Hi there, I'm Vino Jafran Al Mukmin 👋
 
-Code is like humor. When you have to explain it, it’s bad." — Cory House
+"Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ---
 
 💻 About Me
 
-- 🏫 Student at:SMPIT Quantum School
+- 🏫 Student at: SMPIT Quantum School
 - 🎯 Focusing on: Web Development & Software Engineering
 - 🚀 Goals: Studying at NUS, and work as a network engineer in Microsoft or NVDIA
-- 📚 Currently Learning: Kotlin and android development
+- 📚 Currently Learning: Kotlin, godot engine, game development, and android development
 - ⚡ Fun Fact: Playing Games Everyday
 
 ---
